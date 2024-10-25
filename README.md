@@ -1,1 +1,2 @@
--- Vertex School C++
+Vertex School C++
+Weeks Challenges
