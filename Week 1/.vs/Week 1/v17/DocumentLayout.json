@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vertex_C-puls\\Week 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF642E2-83B5-43D9-A0EA-FEDACA9FAA94}|Week 1\\Week 1.vcxproj|C:\\Vertex_C-puls\\Week 1\\Week 1\\Solving prblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CF642E2-83B5-43D9-A0EA-FEDACA9FAA94}|Week 1\\Week 1.vcxproj|solutionrelative:Week 1\\Solving prblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solving prblem.cpp",
+              "DocumentMoniker": "C:\\Vertex_C-puls\\Week 1\\Week 1\\Solving prblem.cpp",
+              "RelativeDocumentMoniker": "Week 1\\Solving prblem.cpp",
+              "ToolTip": "C:\\Vertex_C-puls\\Week 1\\Week 1\\Solving prblem.cpp",
+              "RelativeToolTip": "Week 1\\Solving prblem.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T13:50:46.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
